@@ -19,7 +19,7 @@
     "use-lanyard": "1.3.7"
   },
   "devDependencies": {
-    "@types/node": "18.11.9",
+    "@types/node": "18.19.56",
     "@types/nprogress": "^0.2.0",
     "@types/react": "18.0.32",
     "@types/react-dom": "18.0.11",
